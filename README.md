@@ -11,3 +11,6 @@ connection. The lower levels would be an endpoint that has poor or no
 connection. Our application may function worse, but by using service workers we 
 address that lower level with grace—even a user with no connection will be able 
 to access the information on our app.
+
+## pwa.png
+![progressive web app screenshot](./pwa.png)
