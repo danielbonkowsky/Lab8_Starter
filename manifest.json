@@ -1,7 +1,7 @@
 {
     "name": "Lab8_Starter",
     "short_name": "Daniel_Bonkowsky",
-    "description": "app",
+    "description": "Thanksgiving recipe application",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "green",
